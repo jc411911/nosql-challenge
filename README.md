@@ -1,7 +1,7 @@
 # nosql-challenge
  Module 12 Joe Almendarez
 ## Project Description
-
+ 
 This project involves working with NoSQL databases to perform various data analysis tasks. The project is divided into two Jupyter Notebooks, each focusing on different aspects of NoSQL data handling and analysis.
 
 ## Notebooks
